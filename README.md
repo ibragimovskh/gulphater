@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gulphater
-- 👀 I’m interested in unix based operating systems
-- 🌱 Currently learning React & Kotlin
-- 📫 How to reach me dontevertrytohackme1@gmail.com
+- 👋 Shokhrukh Ibragimov
+- 👀 OS: btw, I use linux
+- 🌱 Currently learning MERN stack
+- 📫 How to reach me ibragimov.shokhrukh03@gmail.com
 
 <!---
 gulphater/gulphater is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
